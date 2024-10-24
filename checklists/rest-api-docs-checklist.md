@@ -1,6 +1,6 @@
 # REST API Documentation Checklist
 
-My following REST API checklist is specifically tailored for REST API documentation. It focuses on the essential components required when documenting REST APIs, such as endpoints, authentication, request/response formats, and error codes.
+This checklist is specifically tailored for REST API documentation. It focuses on the essential components required when documenting REST APIs, such as endpoints, authentication, request/response formats, and error codes.
 
 If you're working with other APIs (like GraphQL, SOAP, or WebSocket APIs), the checklist will need to be adjusted to include their unique documentation requirements. 
 
