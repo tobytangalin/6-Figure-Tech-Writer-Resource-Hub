@@ -1,4 +1,4 @@
-# REST API Documentation Checklist (My Little Pony Characters)
+# REST API Documentation Checklist
 
 My following REST API checklist is specifically tailored for REST API documentation. It focuses on the essential components required when documenting REST APIs, such as endpoints, authentication, request/response formats, and error codes.
 
@@ -11,7 +11,7 @@ Before publishing your REST API docs, remember to document each of the following
 ## 1. **General Information**
 
 - [ ] **REST API Name**: Is the API name clearly stated at the top of your document?
-- [ ] **Base URL**: Is the base URL for all API requests included (e.g., `https://api.mylittlepony.com/v1`)?
+- [ ] **Base URL**: Is the base URL for all API requests included (e.g., `https://api.sitecore.com/v1`)?
 - [ ] **Versioning**: Is the API version documented? (e.g., `v1`, `v2`)
 - [ ] **Date of Last Update**: Is the last date of documentation update mentioned?
 
@@ -29,7 +29,7 @@ Before publishing your REST API docs, remember to document each of the following
 
 Document the following per each endpoint:
 
-- [ ] **Endpoint Path**: Is the exact URL path of the endpoint provided (e.g., `/ponies`)?
+- [ ] **Endpoint Path**: Is the exact URL path of the endpoint provided (e.g., `/resources`)?
 - [ ] **HTTP Methods**: Are the supported HTTP methods (GET, POST, PUT, DELETE) specified?
 - [ ] **Request Parameters**: Are the required and optional parameters for the request detailed, including:
   - [ ] Parameter name
@@ -116,10 +116,3 @@ Document the following per each endpoint:
 - [ ] **Documentation Review**: Have technical writers and developers reviewed the documentation for accuracy and clarity?
 
 --- 
-
-
-> A slightly different kind of checklist! 
-
-![MLP_checklist](https://github.com/user-attachments/assets/3a500e03-1c71-4786-8ad0-8982d0b0dfdd)
-
-
